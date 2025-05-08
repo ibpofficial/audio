@@ -2,21 +2,21 @@
 const songs = [
     {
         id: 1,
-        title: "Bajrang baan  ",
+        title: "Bajrang baan ",
         artist: "Rasraj Ji Maharaj",
-        genre: "pop",
+        genre: "bhajan ",
         cover: "bajrang.png",
-        audio: "Bajrang baan.mp3",
+        audio: "Bajrang Baan.mp3",
         duration: "2:20"
     },
     {
         id: 2,
-        title: "O Shera-Teer Te Taj",
-        artist: "Manmohan Waris, Kamal Heer",
-        genre: "goosebumps",
-        cover: "kesari.jpg",
+        title: "Hanuman aarti ",
+        artist: "Hanuman ji",
+        genre: "Bhajan",
+        cover: "bajrang.png",
         audio: "Hanuman Aarti.mp3",
-        duration: "2:44"
+        duration: "4:31"
     },
     {
         id: 3,
