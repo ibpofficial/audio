@@ -20,30 +20,30 @@ const songs = [
     },
     {
         id: 3,
-        title: "Haran hu mai ",
-        artist: "Anuv Jain",
-        genre: "pop",
-        cover: "2.png",
-        audio: "2.m4a",
-        duration: "3:20"
+        title: "shiv aarti  ",
+        artist: "Shiv ",
+        genre: "Bhajan",
+        cover: "shivaarti.png",
+        audio: "shiv aarti.mp3",
+        duration: "4:06"
     },
     {
         id: 4,
-        title: "MONEY MONEY Ft AJAY DEVGAN",
-        artist: "YO YO HONEY SING",
-        genre: "pop",
-        cover: "1.png",
-        audio: "1.mp3",
-        duration: "3:10"
+        title: "Baba bholenath meri naiya ko ubaaro na.mp3",
+        artist: "tadkeshwar mahadev aarti ",
+        genre: "Aarti ",
+        cover: "shivaarti.png",
+        audio: "Baba bholenath meri naiya ko ubaaro na.mp3",
+        duration: "5:28"
     },
     {
         id: 5,
-        title: "QATAL",
-        artist: "GURU RANDHAWA",
-        genre: "hip-hop",
-        cover: "qatal.jpg",
-        audio: "qatal.mp3",
-        duration: "2:51"
+        title: "Main aarti teri gau ganesh.m4a",
+        artist: "Pandit ji ",
+        genre: "Aarti",
+        cover: "ganesh.png",
+        audio: "Main aarti teri gau ganesh.m4a",
+        duration: "6:20"
     },
      {
         id: 5,
