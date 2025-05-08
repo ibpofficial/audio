@@ -7,7 +7,7 @@ const songs = [
         genre: "pop",
         cover: "bajrang.png",
         audio: "bajrang baan.mp3",
-        duration: "3:20"
+        duration: "2:20"
     },
     {
         id: 2,
