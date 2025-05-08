@@ -6,7 +6,7 @@ const songs = [
         artist: "Rasraj Ji Maharaj",
         genre: "pop",
         cover: "bajrang.png",
-        audio: "bajrang baan.mp3",
+        audio: "Bajrang baan.mp3",
         duration: "2:20"
     },
     {
@@ -15,7 +15,7 @@ const songs = [
         artist: "Manmohan Waris, Kamal Heer",
         genre: "goosebumps",
         cover: "kesari.jpg",
-        audio: "kesari.mp3",
+        audio: "Hanuman Aarti.mp3",
         duration: "2:44"
     },
     {
