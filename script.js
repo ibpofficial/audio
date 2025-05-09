@@ -30,7 +30,7 @@ const songs = [
     {
         id: 4,
         title: "Baba bholenath ",
-        artist: "tadkeshwar mahadev aarti ",
+        artist: "tadkeshwar mahadev ",
         genre: "Aarti ",
         cover: "shivaarti.png",
         audio: "Baba bholenath meri naiya ko ubaaro na.mp3",
@@ -48,29 +48,29 @@ const songs = [
      {
         id: 5,
         title: "Vishnu stuti",
-        artist: "vishnu",
-        genre: "Bhajan",
-        cover: "vishnu.png,
+        artist: "Maanu ,Annural Khalid ",
+        genre: "LOVE",
+        cover: "vishnu.png",
         audio: "Vishnu stuti.mp3",
         duration: "3:30"
     },
     {
         id: 6,
-        title: "Vishnu Chalisa Fast",
-        artist: "Vishhu",
-        genre: "Bhajan",
-        cover: "vishnu.png",
-        audio: "Vishnu Chalisa Fast.mp3",
-        duration: "4:29"
+        title: "comming soon",
+        artist: "Neeraj Shridhar, Sunidhi Chauhan,",
+        genre: "pop",
+        cover: "vishu.png",
+        audio: "koina.mp3",
+        duration: "2:52"
     },
     {
         id: 7,
-        title: "JEELO JEELO",
-        artist: "dhanda nyoliwala",
-        genre: "hiphop",
-        cover: "j.png",
-        audio: "j.mp3",
-        duration: "3:55"
+        title: "Vishnu Chalisa Fast",
+        artist: "vishnu",
+        genre: "pop",
+        cover: "vishnu.png",
+        audio: "Vishnu Chalisa Fast.mp3",
+        duration: "4:29"
     },
     {
         id: 8,
