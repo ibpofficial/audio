@@ -29,7 +29,7 @@ const songs = [
     },
     {
         id: 4,
-        title: "Baba bholenath meri naiya ko ubaaro na.mp3",
+        title: "Baba bholenath ",
         artist: "tadkeshwar mahadev aarti ",
         genre: "Aarti ",
         cover: "shivaarti.png",
@@ -38,7 +38,7 @@ const songs = [
     },
     {
         id: 5,
-        title: "Main aarti teri gau ganesh.m4a",
+        title: "Main aarti teri gau ",
         artist: "Pandit ji ",
         genre: "Aarti",
         cover: "ganesh.png",
@@ -47,21 +47,21 @@ const songs = [
     },
      {
         id: 5,
-        title: "QATAL",
-        artist: "Maanu ,Annural Khalid ",
-        genre: "LOVE",
-        cover: "jhol.jpg",
-        audio: "jhol.mp3",
-        duration: "4:25"
+        title: "Vishnu stuti",
+        artist: "vishnu",
+        genre: "Bhajan",
+        cover: "vishnu.png,
+        audio: "Vishnu stuti.mp3",
+        duration: "3:30"
     },
     {
         id: 6,
-        title: "Chor Bazari Phir Se",
-        artist: "Neeraj Shridhar, Sunidhi Chauhan,",
-        genre: "pop",
-        cover: "rajkumar.jpg",
-        audio: "koina.mp3",
-        duration: "2:52"
+        title: "Vishnu Chalisa Fast",
+        artist: "Vishhu",
+        genre: "Bhajan",
+        cover: "vishnu.png",
+        audio: "Vishnu Chalisa Fast.mp3",
+        duration: "4:29"
     },
     {
         id: 7,
