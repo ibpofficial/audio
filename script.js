@@ -74,39 +74,39 @@ const songs = [
     },
     {
         id: 8,
-        title: "SICKO MODE",
-        artist: "Travis Scott",
+        title: "MILLIONARE",
+        artist: "yo yo honey sing ",
         genre: "hiphop",
-        cover: "https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268",
-        audio: "assets/songs/sicko-mode.mp3",
+        cover: "millinare.png",
+        audio: "MILLIONAIRE SONG (Full Video) YoYoHoneySingh GLORY BHUSHAN KUMAR - T-Series.mp3",
         duration: "5:12"
     },
     {
         id: 9,
-        title: "God's Plan",
-        artist: "Drake",
+        title: "Chor Baazari",
+        artist: "Atif aslam",
         genre: "hiphop",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a4f037b9354705a027a06e8a",
-        audio: "assets/songs/gods-plan.mp3",
-        duration: "3:18"
+        cover: "chor.png",
+        audio: "Chor Bazari Phir Se Bhool Chuk Maaf Rajkummar, Wamiqa Pritam, Tanishk, Irshad, Neeraj, Sunidhi - Sony Music India.mp3",
+        duration: "3:25"
     },
     {
         id: 10,
-        title: "Watermelon Sugar",
-        artist: "Harry Styles",
+        title: "QATAL ",
+        artist: "ury randhawa",
         genre: "pop",
-        cover: "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69",
-        audio: "assets/songs/watermelon-sugar.mp3",
+        cover: "qatal.png",
+        audio: "Guru Randhawa - QATAL - (Official Video) - Guru Randhawa.mp3",
         duration: "2:54"
     },
     {
         id: 11,
-        title: "Don't Stop Believin'",
-        artist: "Journey",
+        title: "Pall Pal'",
+        artist: "Talvindar",
         genre: "rock",
-        cover: "https://i.scdn.co/image/ab67616d00001e02a9f6c04ba168640b48aa5795",
-        audio: "assets/songs/dont-stop-believin.mp3",
-        duration: "4:11"
+        cover: "palpal.png",
+        audio: "Afusic - Pal Pal with Talwiinder (Official Visualiser) Prod. AliSoomroMusic - AFUSIC.mp3",
+        duration: "3:24"
     },
     {
         id: 12,
